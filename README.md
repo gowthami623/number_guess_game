@@ -61,6 +61,7 @@
   Develop a mechanism to track the player's score based on their performance in each game.
 
 **Testing and Debugging:**
+
   Thoroughly test the game to ensure it functions as expected. Debug any issues that arise during testing.
 
 **Enhancements and Refinements:**
